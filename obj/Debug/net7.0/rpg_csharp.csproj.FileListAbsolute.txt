@@ -1,0 +1,14 @@
+/home/labber/CSharpProjects/rpg_csharp/bin/Debug/net7.0/rpg_csharp
+/home/labber/CSharpProjects/rpg_csharp/bin/Debug/net7.0/rpg_csharp.deps.json
+/home/labber/CSharpProjects/rpg_csharp/bin/Debug/net7.0/rpg_csharp.runtimeconfig.json
+/home/labber/CSharpProjects/rpg_csharp/bin/Debug/net7.0/rpg_csharp.dll
+/home/labber/CSharpProjects/rpg_csharp/bin/Debug/net7.0/rpg_csharp.pdb
+/home/labber/CSharpProjects/rpg_csharp/obj/Debug/net7.0/rpg_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/labber/CSharpProjects/rpg_csharp/obj/Debug/net7.0/rpg_csharp.AssemblyInfoInputs.cache
+/home/labber/CSharpProjects/rpg_csharp/obj/Debug/net7.0/rpg_csharp.AssemblyInfo.cs
+/home/labber/CSharpProjects/rpg_csharp/obj/Debug/net7.0/rpg_csharp.csproj.CoreCompileInputs.cache
+/home/labber/CSharpProjects/rpg_csharp/obj/Debug/net7.0/rpg_csharp.dll
+/home/labber/CSharpProjects/rpg_csharp/obj/Debug/net7.0/refint/rpg_csharp.dll
+/home/labber/CSharpProjects/rpg_csharp/obj/Debug/net7.0/rpg_csharp.pdb
+/home/labber/CSharpProjects/rpg_csharp/obj/Debug/net7.0/rpg_csharp.genruntimeconfig.cache
+/home/labber/CSharpProjects/rpg_csharp/obj/Debug/net7.0/ref/rpg_csharp.dll
